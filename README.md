@@ -78,8 +78,6 @@ Feature Importance chart
 
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/51ba280b-5b82-481e-a6a2-80016d1aa979" />
 
-<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/59a94f0b-6b76-414a-8e83-aba96b1a8062" />
-
 ## Dataset upload 
 
 <img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/fba453a3-8852-43aa-accc-b98f186c85d9" />

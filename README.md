@@ -39,10 +39,15 @@ predictive-maintenance-classification
 ## Purpose
 
 IBM Cloud AutoAI    	     -    Automated ML pipeline
+
 IBM Watson Studio	         -    ML development, visualization, deployment
+
 IBM Cloud Object Storage	 -    Dataset storage
+
 Watson Machine Learning	   -    Model deployment and API creation
+
 Python(Auto-generated)	   -    Backend logic for training & predictions
+
 GitHub	                   -    Version control and documentation
 
 ## 📊 Output

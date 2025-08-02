@@ -1,5 +1,5 @@
-# Predictive_maintainance_model
-Project using IBM AutoAI to build a predictive maintainance model
+# Predictive_maintenance_model
+Project using IBM AutoAI to build a predictive maintenance model
 
 ## 🛠 Problem Statement
 

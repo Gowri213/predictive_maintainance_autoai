@@ -130,6 +130,10 @@ User Interface Dashboard: Build a front-end dashboard to visualize predictions, 
 
 Alert System: Integrate email/SMS alert system to notify maintenance teams in case of high failure probability.
 
+## Project notebook
+
+https://github.com/Gowri213/predictive_maintenance_autoai/blob/main/predictive_maintenance_autoai.ipynb
+
 ## Author
 
 - **Gowri S**
